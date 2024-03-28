@@ -2,6 +2,7 @@ package polymorphisem;
 
 public class Clothes
 {
+	
 double dis=0.0;
 double price=4000;
 public void discount()
